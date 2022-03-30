@@ -8,3 +8,8 @@
 4. Click on the number of the day you are coding.
 
 You can also consult the page on : https://rasolofonirina.github.io/100-days-of-code-tracker-tool/
+
+<br>
+<br>
+
+You can buy me a coffee [here](https://www.buymeacoffee.com/rasolofonirina).
